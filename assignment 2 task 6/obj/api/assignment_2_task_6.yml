@@ -1,0 +1,77 @@
+### YamlMime:ManagedReference
+items:
+- uid: assignment_2_task_6
+  commentId: N:assignment_2_task_6
+  id: assignment_2_task_6
+  children:
+  - assignment_2_task_6.ApplicationSignInManager
+  - assignment_2_task_6.ApplicationUserManager
+  - assignment_2_task_6.BundleConfig
+  - assignment_2_task_6.EmailService
+  - assignment_2_task_6.FilterConfig
+  - assignment_2_task_6.MvcApplication
+  - assignment_2_task_6.RouteConfig
+  - assignment_2_task_6.SmsService
+  - assignment_2_task_6.Startup
+  langs:
+  - csharp
+  - vb
+  name: assignment_2_task_6
+  nameWithType: assignment_2_task_6
+  fullName: assignment_2_task_6
+  type: Namespace
+  assemblies:
+  - assignment 2 task 6
+references:
+- uid: assignment_2_task_6.BundleConfig
+  commentId: T:assignment_2_task_6.BundleConfig
+  name: BundleConfig
+  nameWithType: BundleConfig
+  fullName: assignment_2_task_6.BundleConfig
+- uid: assignment_2_task_6.FilterConfig
+  commentId: T:assignment_2_task_6.FilterConfig
+  name: FilterConfig
+  nameWithType: FilterConfig
+  fullName: assignment_2_task_6.FilterConfig
+- uid: assignment_2_task_6.EmailService
+  commentId: T:assignment_2_task_6.EmailService
+  name: EmailService
+  nameWithType: EmailService
+  fullName: assignment_2_task_6.EmailService
+- uid: assignment_2_task_6.SmsService
+  commentId: T:assignment_2_task_6.SmsService
+  name: SmsService
+  nameWithType: SmsService
+  fullName: assignment_2_task_6.SmsService
+- uid: assignment_2_task_6.ApplicationUserManager
+  commentId: T:assignment_2_task_6.ApplicationUserManager
+  parent: assignment_2_task_6
+  name: ApplicationUserManager
+  nameWithType: ApplicationUserManager
+  fullName: assignment_2_task_6.ApplicationUserManager
+- uid: assignment_2_task_6.ApplicationSignInManager
+  commentId: T:assignment_2_task_6.ApplicationSignInManager
+  parent: assignment_2_task_6
+  name: ApplicationSignInManager
+  nameWithType: ApplicationSignInManager
+  fullName: assignment_2_task_6.ApplicationSignInManager
+- uid: assignment_2_task_6.RouteConfig
+  commentId: T:assignment_2_task_6.RouteConfig
+  name: RouteConfig
+  nameWithType: RouteConfig
+  fullName: assignment_2_task_6.RouteConfig
+- uid: assignment_2_task_6.Startup
+  commentId: T:assignment_2_task_6.Startup
+  name: Startup
+  nameWithType: Startup
+  fullName: assignment_2_task_6.Startup
+- uid: assignment_2_task_6.MvcApplication
+  commentId: T:assignment_2_task_6.MvcApplication
+  name: MvcApplication
+  nameWithType: MvcApplication
+  fullName: assignment_2_task_6.MvcApplication
+- uid: assignment_2_task_6
+  commentId: N:assignment_2_task_6
+  name: assignment_2_task_6
+  nameWithType: assignment_2_task_6
+  fullName: assignment_2_task_6

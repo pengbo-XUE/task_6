@@ -1,0 +1,28 @@
+### YamlMime:ManagedReference
+items:
+- uid: assignment_2_task_6.Migrations
+  commentId: N:assignment_2_task_6.Migrations
+  id: assignment_2_task_6.Migrations
+  children:
+  - assignment_2_task_6.Migrations.adas
+  - assignment_2_task_6.Migrations.InitialCreate
+  langs:
+  - csharp
+  - vb
+  name: assignment_2_task_6.Migrations
+  nameWithType: assignment_2_task_6.Migrations
+  fullName: assignment_2_task_6.Migrations
+  type: Namespace
+  assemblies:
+  - assignment 2 task 6
+references:
+- uid: assignment_2_task_6.Migrations.InitialCreate
+  commentId: T:assignment_2_task_6.Migrations.InitialCreate
+  name: InitialCreate
+  nameWithType: InitialCreate
+  fullName: assignment_2_task_6.Migrations.InitialCreate
+- uid: assignment_2_task_6.Migrations.adas
+  commentId: T:assignment_2_task_6.Migrations.adas
+  name: adas
+  nameWithType: adas
+  fullName: assignment_2_task_6.Migrations.adas

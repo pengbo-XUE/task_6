@@ -1,0 +1,245 @@
+### YamlMime:ManagedReference
+items:
+- uid: assignment_2_task_6.Controllers.ManageController.ManageMessageId
+  commentId: T:assignment_2_task_6.Controllers.ManageController.ManageMessageId
+  id: ManageController.ManageMessageId
+  parent: assignment_2_task_6.Controllers
+  children:
+  - assignment_2_task_6.Controllers.ManageController.ManageMessageId.AddPhoneSuccess
+  - assignment_2_task_6.Controllers.ManageController.ManageMessageId.ChangePasswordSuccess
+  - assignment_2_task_6.Controllers.ManageController.ManageMessageId.Error
+  - assignment_2_task_6.Controllers.ManageController.ManageMessageId.RemoveLoginSuccess
+  - assignment_2_task_6.Controllers.ManageController.ManageMessageId.RemovePhoneSuccess
+  - assignment_2_task_6.Controllers.ManageController.ManageMessageId.SetPasswordSuccess
+  - assignment_2_task_6.Controllers.ManageController.ManageMessageId.SetTwoFactorSuccess
+  langs:
+  - csharp
+  - vb
+  name: ManageController.ManageMessageId
+  nameWithType: ManageController.ManageMessageId
+  fullName: assignment_2_task_6.Controllers.ManageController.ManageMessageId
+  type: Enum
+  source:
+    id: ManageMessageId
+    path: E:\Class\Cloud computing\assignment 2 my work\assignment 2 task 6\assignment 2 task 6\assignment 2 task 6\Controllers\ManageController.cs
+    startLine: 375
+  assemblies:
+  - assignment 2 task 6
+  namespace: assignment_2_task_6.Controllers
+  syntax:
+    content: public enum ManageMessageId
+    content.vb: Public Enum ManageMessageId
+  modifiers.csharp:
+  - public
+  - enum
+  modifiers.vb:
+  - Public
+  - Enum
+- uid: assignment_2_task_6.Controllers.ManageController.ManageMessageId.AddPhoneSuccess
+  commentId: F:assignment_2_task_6.Controllers.ManageController.ManageMessageId.AddPhoneSuccess
+  id: AddPhoneSuccess
+  parent: assignment_2_task_6.Controllers.ManageController.ManageMessageId
+  langs:
+  - csharp
+  - vb
+  name: AddPhoneSuccess
+  nameWithType: ManageController.ManageMessageId.AddPhoneSuccess
+  fullName: assignment_2_task_6.Controllers.ManageController.ManageMessageId.AddPhoneSuccess
+  type: Field
+  source:
+    id: AddPhoneSuccess
+    path: E:\Class\Cloud computing\assignment 2 my work\assignment 2 task 6\assignment 2 task 6\assignment 2 task 6\Controllers\ManageController.cs
+    startLine: 377
+  assemblies:
+  - assignment 2 task 6
+  namespace: assignment_2_task_6.Controllers
+  syntax:
+    content: AddPhoneSuccess = 0
+    return:
+      type: assignment_2_task_6.Controllers.ManageController.ManageMessageId
+  modifiers.csharp:
+  - public
+  - const
+  modifiers.vb:
+  - Public
+  - Const
+- uid: assignment_2_task_6.Controllers.ManageController.ManageMessageId.ChangePasswordSuccess
+  commentId: F:assignment_2_task_6.Controllers.ManageController.ManageMessageId.ChangePasswordSuccess
+  id: ChangePasswordSuccess
+  parent: assignment_2_task_6.Controllers.ManageController.ManageMessageId
+  langs:
+  - csharp
+  - vb
+  name: ChangePasswordSuccess
+  nameWithType: ManageController.ManageMessageId.ChangePasswordSuccess
+  fullName: assignment_2_task_6.Controllers.ManageController.ManageMessageId.ChangePasswordSuccess
+  type: Field
+  source:
+    id: ChangePasswordSuccess
+    path: E:\Class\Cloud computing\assignment 2 my work\assignment 2 task 6\assignment 2 task 6\assignment 2 task 6\Controllers\ManageController.cs
+    startLine: 378
+  assemblies:
+  - assignment 2 task 6
+  namespace: assignment_2_task_6.Controllers
+  syntax:
+    content: ChangePasswordSuccess = 1
+    return:
+      type: assignment_2_task_6.Controllers.ManageController.ManageMessageId
+  modifiers.csharp:
+  - public
+  - const
+  modifiers.vb:
+  - Public
+  - Const
+- uid: assignment_2_task_6.Controllers.ManageController.ManageMessageId.SetTwoFactorSuccess
+  commentId: F:assignment_2_task_6.Controllers.ManageController.ManageMessageId.SetTwoFactorSuccess
+  id: SetTwoFactorSuccess
+  parent: assignment_2_task_6.Controllers.ManageController.ManageMessageId
+  langs:
+  - csharp
+  - vb
+  name: SetTwoFactorSuccess
+  nameWithType: ManageController.ManageMessageId.SetTwoFactorSuccess
+  fullName: assignment_2_task_6.Controllers.ManageController.ManageMessageId.SetTwoFactorSuccess
+  type: Field
+  source:
+    id: SetTwoFactorSuccess
+    path: E:\Class\Cloud computing\assignment 2 my work\assignment 2 task 6\assignment 2 task 6\assignment 2 task 6\Controllers\ManageController.cs
+    startLine: 379
+  assemblies:
+  - assignment 2 task 6
+  namespace: assignment_2_task_6.Controllers
+  syntax:
+    content: SetTwoFactorSuccess = 2
+    return:
+      type: assignment_2_task_6.Controllers.ManageController.ManageMessageId
+  modifiers.csharp:
+  - public
+  - const
+  modifiers.vb:
+  - Public
+  - Const
+- uid: assignment_2_task_6.Controllers.ManageController.ManageMessageId.SetPasswordSuccess
+  commentId: F:assignment_2_task_6.Controllers.ManageController.ManageMessageId.SetPasswordSuccess
+  id: SetPasswordSuccess
+  parent: assignment_2_task_6.Controllers.ManageController.ManageMessageId
+  langs:
+  - csharp
+  - vb
+  name: SetPasswordSuccess
+  nameWithType: ManageController.ManageMessageId.SetPasswordSuccess
+  fullName: assignment_2_task_6.Controllers.ManageController.ManageMessageId.SetPasswordSuccess
+  type: Field
+  source:
+    id: SetPasswordSuccess
+    path: E:\Class\Cloud computing\assignment 2 my work\assignment 2 task 6\assignment 2 task 6\assignment 2 task 6\Controllers\ManageController.cs
+    startLine: 380
+  assemblies:
+  - assignment 2 task 6
+  namespace: assignment_2_task_6.Controllers
+  syntax:
+    content: SetPasswordSuccess = 3
+    return:
+      type: assignment_2_task_6.Controllers.ManageController.ManageMessageId
+  modifiers.csharp:
+  - public
+  - const
+  modifiers.vb:
+  - Public
+  - Const
+- uid: assignment_2_task_6.Controllers.ManageController.ManageMessageId.RemoveLoginSuccess
+  commentId: F:assignment_2_task_6.Controllers.ManageController.ManageMessageId.RemoveLoginSuccess
+  id: RemoveLoginSuccess
+  parent: assignment_2_task_6.Controllers.ManageController.ManageMessageId
+  langs:
+  - csharp
+  - vb
+  name: RemoveLoginSuccess
+  nameWithType: ManageController.ManageMessageId.RemoveLoginSuccess
+  fullName: assignment_2_task_6.Controllers.ManageController.ManageMessageId.RemoveLoginSuccess
+  type: Field
+  source:
+    id: RemoveLoginSuccess
+    path: E:\Class\Cloud computing\assignment 2 my work\assignment 2 task 6\assignment 2 task 6\assignment 2 task 6\Controllers\ManageController.cs
+    startLine: 381
+  assemblies:
+  - assignment 2 task 6
+  namespace: assignment_2_task_6.Controllers
+  syntax:
+    content: RemoveLoginSuccess = 4
+    return:
+      type: assignment_2_task_6.Controllers.ManageController.ManageMessageId
+  modifiers.csharp:
+  - public
+  - const
+  modifiers.vb:
+  - Public
+  - Const
+- uid: assignment_2_task_6.Controllers.ManageController.ManageMessageId.RemovePhoneSuccess
+  commentId: F:assignment_2_task_6.Controllers.ManageController.ManageMessageId.RemovePhoneSuccess
+  id: RemovePhoneSuccess
+  parent: assignment_2_task_6.Controllers.ManageController.ManageMessageId
+  langs:
+  - csharp
+  - vb
+  name: RemovePhoneSuccess
+  nameWithType: ManageController.ManageMessageId.RemovePhoneSuccess
+  fullName: assignment_2_task_6.Controllers.ManageController.ManageMessageId.RemovePhoneSuccess
+  type: Field
+  source:
+    id: RemovePhoneSuccess
+    path: E:\Class\Cloud computing\assignment 2 my work\assignment 2 task 6\assignment 2 task 6\assignment 2 task 6\Controllers\ManageController.cs
+    startLine: 382
+  assemblies:
+  - assignment 2 task 6
+  namespace: assignment_2_task_6.Controllers
+  syntax:
+    content: RemovePhoneSuccess = 5
+    return:
+      type: assignment_2_task_6.Controllers.ManageController.ManageMessageId
+  modifiers.csharp:
+  - public
+  - const
+  modifiers.vb:
+  - Public
+  - Const
+- uid: assignment_2_task_6.Controllers.ManageController.ManageMessageId.Error
+  commentId: F:assignment_2_task_6.Controllers.ManageController.ManageMessageId.Error
+  id: Error
+  parent: assignment_2_task_6.Controllers.ManageController.ManageMessageId
+  langs:
+  - csharp
+  - vb
+  name: Error
+  nameWithType: ManageController.ManageMessageId.Error
+  fullName: assignment_2_task_6.Controllers.ManageController.ManageMessageId.Error
+  type: Field
+  source:
+    id: Error
+    path: E:\Class\Cloud computing\assignment 2 my work\assignment 2 task 6\assignment 2 task 6\assignment 2 task 6\Controllers\ManageController.cs
+    startLine: 383
+  assemblies:
+  - assignment 2 task 6
+  namespace: assignment_2_task_6.Controllers
+  syntax:
+    content: Error = 6
+    return:
+      type: assignment_2_task_6.Controllers.ManageController.ManageMessageId
+  modifiers.csharp:
+  - public
+  - const
+  modifiers.vb:
+  - Public
+  - Const
+references:
+- uid: assignment_2_task_6.Controllers
+  commentId: N:assignment_2_task_6.Controllers
+  name: assignment_2_task_6.Controllers
+  nameWithType: assignment_2_task_6.Controllers
+  fullName: assignment_2_task_6.Controllers
+- uid: assignment_2_task_6.Controllers.ManageController.ManageMessageId
+  commentId: T:assignment_2_task_6.Controllers.ManageController.ManageMessageId
+  parent: assignment_2_task_6.Controllers
+  name: ManageController.ManageMessageId
+  nameWithType: ManageController.ManageMessageId
+  fullName: assignment_2_task_6.Controllers.ManageController.ManageMessageId

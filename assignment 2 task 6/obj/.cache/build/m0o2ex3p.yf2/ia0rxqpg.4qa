@@ -1,0 +1,155 @@
+
+<div id="sidetoggle">
+  <div>
+    <div class="sidefilter">
+      <form class="toc-filter">
+        <span class="glyphicon glyphicon-filter filter-icon"></span>
+        <span class="glyphicon glyphicon-remove clear-icon" id="toc_filter_clear"></span>
+        <input type="text" id="toc_filter_input" placeholder="Enter here to filter..." onkeypress="if(event.keyCode==13) {return false;}">
+      </form>
+    </div>
+    <div class="sidetoc">
+      <div class="toc" id="toc">
+          
+          <ul class="nav level1">
+                <li>
+                    <span class="expand-stub"></span>
+                    <a href="assignment_2_task_6.html" name="" title="assignment_2_task_6">assignment_2_task_6</a>
+                    
+                    <ul class="nav level2">
+                          <li>
+                              <a href="assignment_2_task_6.ApplicationSignInManager.html" name="" title="ApplicationSignInManager">ApplicationSignInManager</a>
+                          </li>
+                          <li>
+                              <a href="assignment_2_task_6.ApplicationUserManager.html" name="" title="ApplicationUserManager">ApplicationUserManager</a>
+                          </li>
+                          <li>
+                              <a href="assignment_2_task_6.BundleConfig.html" name="" title="BundleConfig">BundleConfig</a>
+                          </li>
+                          <li>
+                              <a href="assignment_2_task_6.EmailService.html" name="" title="EmailService">EmailService</a>
+                          </li>
+                          <li>
+                              <a href="assignment_2_task_6.FilterConfig.html" name="" title="FilterConfig">FilterConfig</a>
+                          </li>
+                          <li>
+                              <a href="assignment_2_task_6.MvcApplication.html" name="" title="MvcApplication">MvcApplication</a>
+                          </li>
+                          <li>
+                              <a href="assignment_2_task_6.RouteConfig.html" name="" title="RouteConfig">RouteConfig</a>
+                          </li>
+                          <li>
+                              <a href="assignment_2_task_6.SmsService.html" name="" title="SmsService">SmsService</a>
+                          </li>
+                          <li>
+                              <a href="assignment_2_task_6.Startup.html" name="" title="Startup">Startup</a>
+                          </li>
+                    </ul>
+                </li>
+                <li>
+                    <span class="expand-stub"></span>
+                    <a href="assignment_2_task_6.Controllers.html" name="" title="assignment_2_task_6.Controllers">assignment_2_task_6.Controllers</a>
+                    
+                    <ul class="nav level2">
+                          <li>
+                              <a href="assignment_2_task_6.Controllers.AccountController.html" name="" title="AccountController">AccountController</a>
+                          </li>
+                          <li>
+                              <a href="assignment_2_task_6.Controllers.HomeController.html" name="" title="HomeController">HomeController</a>
+                          </li>
+                          <li>
+                              <a href="assignment_2_task_6.Controllers.ManageController.html" name="" title="ManageController">ManageController</a>
+                          </li>
+                          <li>
+                              <a href="assignment_2_task_6.Controllers.ManageController.ManageMessageId.html" name="" title="ManageController.ManageMessageId">ManageController.ManageMessageId</a>
+                          </li>
+                          <li>
+                              <a href="assignment_2_task_6.Controllers.MenuModelsController.html" name="" title="MenuModelsController">MenuModelsController</a>
+                          </li>
+                    </ul>
+                </li>
+                <li>
+                    <span class="expand-stub"></span>
+                    <a href="assignment_2_task_6.Migrations.html" name="" title="assignment_2_task_6.Migrations">assignment_2_task_6.Migrations</a>
+                    
+                    <ul class="nav level2">
+                          <li>
+                              <a href="assignment_2_task_6.Migrations.InitialCreate.html" name="" title="InitialCreate">InitialCreate</a>
+                          </li>
+                    </ul>
+                </li>
+                <li>
+                    <span class="expand-stub"></span>
+                    <a href="assignment_2_task_6.Models.html" name="" title="assignment_2_task_6.Models">assignment_2_task_6.Models</a>
+                    
+                    <ul class="nav level2">
+                          <li>
+                              <a href="assignment_2_task_6.Models.AddPhoneNumberViewModel.html" name="" title="AddPhoneNumberViewModel">AddPhoneNumberViewModel</a>
+                          </li>
+                          <li>
+                              <a href="assignment_2_task_6.Models.ApplicationDbContext.html" name="" title="ApplicationDbContext">ApplicationDbContext</a>
+                          </li>
+                          <li>
+                              <a href="assignment_2_task_6.Models.ApplicationUser.html" name="" title="ApplicationUser">ApplicationUser</a>
+                          </li>
+                          <li>
+                              <a href="assignment_2_task_6.Models.ChangePasswordViewModel.html" name="" title="ChangePasswordViewModel">ChangePasswordViewModel</a>
+                          </li>
+                          <li>
+                              <a href="assignment_2_task_6.Models.ConfigureTwoFactorViewModel.html" name="" title="ConfigureTwoFactorViewModel">ConfigureTwoFactorViewModel</a>
+                          </li>
+                          <li>
+                              <a href="assignment_2_task_6.Models.ExternalLoginConfirmationViewModel.html" name="" title="ExternalLoginConfirmationViewModel">ExternalLoginConfirmationViewModel</a>
+                          </li>
+                          <li>
+                              <a href="assignment_2_task_6.Models.ExternalLoginListViewModel.html" name="" title="ExternalLoginListViewModel">ExternalLoginListViewModel</a>
+                          </li>
+                          <li>
+                              <a href="assignment_2_task_6.Models.FactorViewModel.html" name="" title="FactorViewModel">FactorViewModel</a>
+                          </li>
+                          <li>
+                              <a href="assignment_2_task_6.Models.ForgotPasswordViewModel.html" name="" title="ForgotPasswordViewModel">ForgotPasswordViewModel</a>
+                          </li>
+                          <li>
+                              <a href="assignment_2_task_6.Models.ForgotViewModel.html" name="" title="ForgotViewModel">ForgotViewModel</a>
+                          </li>
+                          <li>
+                              <a href="assignment_2_task_6.Models.IndexViewModel.html" name="" title="IndexViewModel">IndexViewModel</a>
+                          </li>
+                          <li>
+                              <a href="assignment_2_task_6.Models.LoginViewModel.html" name="" title="LoginViewModel">LoginViewModel</a>
+                          </li>
+                          <li>
+                              <a href="assignment_2_task_6.Models.ManageLoginsViewModel.html" name="" title="ManageLoginsViewModel">ManageLoginsViewModel</a>
+                          </li>
+                          <li>
+                              <a href="assignment_2_task_6.Models.MenuDBContext.html" name="" title="MenuDBContext">MenuDBContext</a>
+                          </li>
+                          <li>
+                              <a href="assignment_2_task_6.Models.MenuModel.html" name="" title="MenuModel">MenuModel</a>
+                          </li>
+                          <li>
+                              <a href="assignment_2_task_6.Models.RegisterViewModel.html" name="" title="RegisterViewModel">RegisterViewModel</a>
+                          </li>
+                          <li>
+                              <a href="assignment_2_task_6.Models.ResetPasswordViewModel.html" name="" title="ResetPasswordViewModel">ResetPasswordViewModel</a>
+                          </li>
+                          <li>
+                              <a href="assignment_2_task_6.Models.SendCodeViewModel.html" name="" title="SendCodeViewModel">SendCodeViewModel</a>
+                          </li>
+                          <li>
+                              <a href="assignment_2_task_6.Models.SetPasswordViewModel.html" name="" title="SetPasswordViewModel">SetPasswordViewModel</a>
+                          </li>
+                          <li>
+                              <a href="assignment_2_task_6.Models.VerifyCodeViewModel.html" name="" title="VerifyCodeViewModel">VerifyCodeViewModel</a>
+                          </li>
+                          <li>
+                              <a href="assignment_2_task_6.Models.VerifyPhoneNumberViewModel.html" name="" title="VerifyPhoneNumberViewModel">VerifyPhoneNumberViewModel</a>
+                          </li>
+                    </ul>
+                </li>
+          </ul>
+      </div>
+    </div>
+  </div>
+</div>

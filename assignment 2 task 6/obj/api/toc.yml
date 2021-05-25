@@ -1,0 +1,87 @@
+### YamlMime:TableOfContent
+- uid: assignment_2_task_6
+  name: assignment_2_task_6
+  items:
+  - uid: assignment_2_task_6.ApplicationSignInManager
+    name: ApplicationSignInManager
+  - uid: assignment_2_task_6.ApplicationUserManager
+    name: ApplicationUserManager
+  - uid: assignment_2_task_6.BundleConfig
+    name: BundleConfig
+  - uid: assignment_2_task_6.EmailService
+    name: EmailService
+  - uid: assignment_2_task_6.FilterConfig
+    name: FilterConfig
+  - uid: assignment_2_task_6.MvcApplication
+    name: MvcApplication
+  - uid: assignment_2_task_6.RouteConfig
+    name: RouteConfig
+  - uid: assignment_2_task_6.SmsService
+    name: SmsService
+  - uid: assignment_2_task_6.Startup
+    name: Startup
+- uid: assignment_2_task_6.Controllers
+  name: assignment_2_task_6.Controllers
+  items:
+  - uid: assignment_2_task_6.Controllers.AccountController
+    name: AccountController
+  - uid: assignment_2_task_6.Controllers.HomeController
+    name: HomeController
+  - uid: assignment_2_task_6.Controllers.ManageController
+    name: ManageController
+  - uid: assignment_2_task_6.Controllers.ManageController.ManageMessageId
+    name: ManageController.ManageMessageId
+  - uid: assignment_2_task_6.Controllers.MenuModelsController
+    name: MenuModelsController
+- uid: assignment_2_task_6.Migrations
+  name: assignment_2_task_6.Migrations
+  items:
+  - uid: assignment_2_task_6.Migrations.adas
+    name: adas
+  - uid: assignment_2_task_6.Migrations.InitialCreate
+    name: InitialCreate
+- uid: assignment_2_task_6.Models
+  name: assignment_2_task_6.Models
+  items:
+  - uid: assignment_2_task_6.Models.AddPhoneNumberViewModel
+    name: AddPhoneNumberViewModel
+  - uid: assignment_2_task_6.Models.ApplicationDbContext
+    name: ApplicationDbContext
+  - uid: assignment_2_task_6.Models.ApplicationUser
+    name: ApplicationUser
+  - uid: assignment_2_task_6.Models.ChangePasswordViewModel
+    name: ChangePasswordViewModel
+  - uid: assignment_2_task_6.Models.ConfigureTwoFactorViewModel
+    name: ConfigureTwoFactorViewModel
+  - uid: assignment_2_task_6.Models.ExternalLoginConfirmationViewModel
+    name: ExternalLoginConfirmationViewModel
+  - uid: assignment_2_task_6.Models.ExternalLoginListViewModel
+    name: ExternalLoginListViewModel
+  - uid: assignment_2_task_6.Models.FactorViewModel
+    name: FactorViewModel
+  - uid: assignment_2_task_6.Models.ForgotPasswordViewModel
+    name: ForgotPasswordViewModel
+  - uid: assignment_2_task_6.Models.ForgotViewModel
+    name: ForgotViewModel
+  - uid: assignment_2_task_6.Models.IndexViewModel
+    name: IndexViewModel
+  - uid: assignment_2_task_6.Models.LoginViewModel
+    name: LoginViewModel
+  - uid: assignment_2_task_6.Models.ManageLoginsViewModel
+    name: ManageLoginsViewModel
+  - uid: assignment_2_task_6.Models.MenuDBContext
+    name: MenuDBContext
+  - uid: assignment_2_task_6.Models.MenuModel
+    name: MenuModel
+  - uid: assignment_2_task_6.Models.RegisterViewModel
+    name: RegisterViewModel
+  - uid: assignment_2_task_6.Models.ResetPasswordViewModel
+    name: ResetPasswordViewModel
+  - uid: assignment_2_task_6.Models.SendCodeViewModel
+    name: SendCodeViewModel
+  - uid: assignment_2_task_6.Models.SetPasswordViewModel
+    name: SetPasswordViewModel
+  - uid: assignment_2_task_6.Models.VerifyCodeViewModel
+    name: VerifyCodeViewModel
+  - uid: assignment_2_task_6.Models.VerifyPhoneNumberViewModel
+    name: VerifyPhoneNumberViewModel

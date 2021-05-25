@@ -1,0 +1,52 @@
+### YamlMime:ManagedReference
+items:
+- uid: assignment_2_task_6.Controllers
+  commentId: N:assignment_2_task_6.Controllers
+  id: assignment_2_task_6.Controllers
+  children:
+  - assignment_2_task_6.Controllers.AccountController
+  - assignment_2_task_6.Controllers.HomeController
+  - assignment_2_task_6.Controllers.ManageController
+  - assignment_2_task_6.Controllers.ManageController.ManageMessageId
+  - assignment_2_task_6.Controllers.MenuModelsController
+  langs:
+  - csharp
+  - vb
+  name: assignment_2_task_6.Controllers
+  nameWithType: assignment_2_task_6.Controllers
+  fullName: assignment_2_task_6.Controllers
+  type: Namespace
+  assemblies:
+  - assignment 2 task 6
+references:
+- uid: assignment_2_task_6.Controllers.AccountController
+  commentId: T:assignment_2_task_6.Controllers.AccountController
+  name: AccountController
+  nameWithType: AccountController
+  fullName: assignment_2_task_6.Controllers.AccountController
+- uid: assignment_2_task_6.Controllers.HomeController
+  commentId: T:assignment_2_task_6.Controllers.HomeController
+  name: HomeController
+  nameWithType: HomeController
+  fullName: assignment_2_task_6.Controllers.HomeController
+- uid: assignment_2_task_6.Controllers.ManageController
+  commentId: T:assignment_2_task_6.Controllers.ManageController
+  name: ManageController
+  nameWithType: ManageController
+  fullName: assignment_2_task_6.Controllers.ManageController
+- uid: assignment_2_task_6.Controllers.ManageController.ManageMessageId
+  commentId: T:assignment_2_task_6.Controllers.ManageController.ManageMessageId
+  parent: assignment_2_task_6.Controllers
+  name: ManageController.ManageMessageId
+  nameWithType: ManageController.ManageMessageId
+  fullName: assignment_2_task_6.Controllers.ManageController.ManageMessageId
+- uid: assignment_2_task_6.Controllers.MenuModelsController
+  commentId: T:assignment_2_task_6.Controllers.MenuModelsController
+  name: MenuModelsController
+  nameWithType: MenuModelsController
+  fullName: assignment_2_task_6.Controllers.MenuModelsController
+- uid: assignment_2_task_6.Controllers
+  commentId: N:assignment_2_task_6.Controllers
+  name: assignment_2_task_6.Controllers
+  nameWithType: assignment_2_task_6.Controllers
+  fullName: assignment_2_task_6.Controllers
